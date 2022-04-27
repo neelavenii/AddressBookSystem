@@ -1,0 +1,8 @@
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\bin\Debug\AddressBookSystemm.exe.config
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\bin\Debug\AddressBookSystemm.exe
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\bin\Debug\AddressBookSystemm.pdb
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\obj\Debug\AddressBookSystemm.csproj.AssemblyReference.cache
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\obj\Debug\AddressBookSystemm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\obj\Debug\AddressBookSystemm.csproj.CoreCompileInputs.cache
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\obj\Debug\AddressBookSystemm.exe
+C:\Users\Eswar\source\repos\AddressBookSystemm\AddressBookSystemm\obj\Debug\AddressBookSystemm.pdb
